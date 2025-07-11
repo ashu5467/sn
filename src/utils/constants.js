@@ -15,6 +15,6 @@ export const APOLOGY_MESSAGES = {
 
 // Add your GIF URLs here!
 export const FORGIVENESS_GIFS = {
-  forgiven: '/assets/gif1.MP4', // Replace with your "forgive" GIF
-  notForgiven: '/assets/gif1.MP4', // Replace with your "not forgive" GIF
+  forgiven: 'https://msn8459.s3.eu-north-1.amazonaws.com/gif1.mp4', // Replace with your "forgive" GIF
+  notForgiven: 'https://msn8459.s3.eu-north-1.amazonaws.com/gif1.mp4', // Replace with your "not forgive" GIF
 };
